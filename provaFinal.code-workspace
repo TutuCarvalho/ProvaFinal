@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "config_server",
+			"path": "config_server"
+		},
+		{
+			"name": "eureka_server",
+			"path": "eureka_server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "tech4cliente",
+			"path": "tech4cliente"
+		},
+		{
+			"name": "tech4agenda",
+			"path": "tech4agenda"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
